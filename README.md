@@ -65,13 +65,13 @@ A glimpse into the world of tomorrow.
 
 Netlify Deployment:
 
-[PASTE_YOUR_NETLIFY_LINK_HERE
-](https://techfest-2050.netlify.app/)
+
+(https://techfest-2050.netlify.app/)
 ## 📹 Demo Video
 
 Google Drive Recording:
 
-[PASTE_YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/1qh2bkWfiuLS1wwZEcfLqD75Q9Q5MljYD/view?usp=drive_link)
+(https://drive.google.com/file/d/1qh2bkWfiuLS1wwZEcfLqD75Q9Q5MljYD/view?usp=drive_link)
 
 ## 📸 Highlights
 
